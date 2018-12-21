@@ -1,0 +1,6 @@
+# Don't track content of these files
+Test.java
+Tools.java
+Test.class
+Tools.class
+Tools.jar
